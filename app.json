@@ -1,5 +1,5 @@
 {
-    "name": "Mukesh Robot",
+    "name": "ʜᴀʀsʜᴜ Robot",
     "description": "Telegram Group Management Bot.",
     "logo": "https://te.legra.ph/file/49c43e6fc856534a09853.jpg",
     "keywords": [
@@ -60,7 +60,7 @@
     "TIME_API_KEY": {
         "description": " Get your API key from https://timezonedb.com/api",
         "required": false,
-        "value": ""
+        "value": "GRP3DISA2UWH"
     },
     "CHATBOT_API": {
         "description":"Get your API key from @FallenChat_Bot using /token",
